@@ -1,0 +1,19 @@
+$Primary-font: 'Archivo Narrow', sans-serif;
+$Primary-color: #5629F4;
+$Secundary-color: #FFFFFF;
+$Tertiary-color: #FC1010;
+$Buttons-color: #47CE4F;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: $Primary-color;
+    color: $Secundary-color;
+}
+main {
+    width: 100%;
+    height: 100%;
+    padding: 0.625rem;
+    font-family: $Primary-font;
+}

@@ -1,0 +1,14 @@
+#form-sect {
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+    border-bottom: 0.1875rem solid $Tertiary-color;
+    button {
+        width: 6.25rem;
+        height: auto;
+        padding: 0.125rem;
+        border-radius: 1.25rem;
+        margin: 0.25rem 0;
+        border-color: $Secundary-color;
+        cursor: pointer;
+    }
+}
